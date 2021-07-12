@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeTheme</string>
+    <string name="action1">setting</string>
+    <string name="action2">search</string>
+</resources>
